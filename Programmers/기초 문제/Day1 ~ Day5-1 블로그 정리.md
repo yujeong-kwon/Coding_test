@@ -21,6 +21,6 @@
 📍 [#4-2 공배수](https://dneod.tistory.com/65 "#4-2 공배수")    
 📍 [#4-3 홀짝에 따라 다른 값 반환하기](https://dneod.tistory.com/66 "#4-3 홀짝에 따라 다른 값 반환하기")    
 📍 [#4-4 조건 문자열](https://dneod.tistory.com/67 "#4-4 조건 문자열")    
-📍 [#4-5 flag에 따라 다른 값 반환하기](https://dneod.tistory.com/68 "#4-5 flag에 따라 다른 값 반환하기)    
+📍 [#4-5 flag에 따라 다른 값 반환하기](https://dneod.tistory.com/68 "#4-5 flag에 따라 다른 값 반환하기")    
 ## Day 1 - 조건문       
 📍 [#5-1 코드 처리하기](https://dneod.tistory.com/69 "#5-1 코드 처리하기")    

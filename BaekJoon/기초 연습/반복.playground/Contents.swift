@@ -1,5 +1,7 @@
 import UIKit
 
+//https://solved.ac/problems/sprout?category=3
+
 //2741: N찍기
 let input = Int(readLine()!)!
 for i in 1...input {
